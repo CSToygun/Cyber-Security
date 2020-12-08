@@ -1,0 +1,32 @@
+Phishing Türleri
+
+
+Spear Phishing : Tamamen Hedef odaklı phishing türüdür. Herhangi bir X şirketinde "sıradan çalışanlara" özel atılırlar
+
+
+
+Whaling:Tamamen Hedef odaklı phishing türüdür. Herhangi bir X şirketinde çalışan "üst düzey yöneticilere" özel yapılan saldırılardır.
+
+
+
+Bating : Yemleme-Cezbetme olarak adlandırılır. Merak uyandıran bilgiler içerdiği veya ücretsiz müzik, program ve resim indirme gibi menfaat sağlanacağı belirtilerek, zararlı yazılım içeren dosyaları cihaza indirilmesi , bazen de web-delivery veya fake wifi hotspot ile saldırılarının gerçekleşmesi ile sağlanır
+
+
+
+Vishing: Sesli konuşma üzerinden oltalama yaparak kandırılan phishing türüdür. Bizi arayarak , tutarsızlık vb gerekçelerle hassas bilgilerimizin istenilmesi şeklindeki sağlanır
+
+
+
+Pharming: Saldırgan bir DNS kaydını zehirleyerek ve pratikte meşru bir web sitesinin ziyaretçilerini kendisinin önceden hazırladığı sahte bir web sitesine yönlendirmesi ile sağlanır
+
+
+
+Smishing: Sms üzerinden oltalama yaparak kandırılan phishing türüdür. kişisel bilgileriniz veya hesap ya da ATM numaranız gibi finansal bilgilerinizi isteyen, çoğunlukla bankanızdan geliyormuş gibi görünen bir sms mesajları ile kullanıcıların kandırılması sağlanır.
+
+
+
+Watering-hole : Saldırganların hedefinde bulunan kişi veya kurumun sık sık ziyaret ettiği web sayfalarına zararlı kod yerleştirilmesi ve hedef kişi sayfayı ziyaret ettiğinde zararlı kodun bulaştırılması ile sağlanır.
+
+
+
+Addphishing:Saldırganların sahte reklamlar ile herhangi bir sitenin alan adı benzerliğinden yararlanarak kişisel ve banka bilgileirnin ele geçirilmesi sağlanır
